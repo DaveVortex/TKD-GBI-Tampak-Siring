@@ -1,0 +1,37 @@
+[
+    { 
+        "id": 1, 
+        "name": "Michael Jordan", 
+        "dob": "05/12/1985", 
+        "branch": "TAMPAK_SIRING", 
+        "baptized": true 
+    },
+    { 
+        "id": 2, 
+        "name": "Lebron James", 
+        "dob": "15/08/1990", 
+        "branch": "TAMPAK_SIRING", 
+        "baptized": true 
+    },
+    { 
+        "id": 3, 
+        "name": "Marcus Rashford", 
+        "dob": "22/04/1978", 
+        "branch": "MOI", 
+        "baptized": false 
+    },
+    { 
+        "id": 4, 
+        "name": "Max Verstappen", 
+        "dob": "10/11/1982", 
+        "branch": "MOI", 
+        "baptized": true 
+    },
+    { 
+        "id": 5, 
+        "name": "Lewis Hamilton", 
+        "dob": "30/06/1995",
+        "branch": "TAMPAK_SIRING", 
+        "baptized": false 
+    }
+]
